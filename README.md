@@ -43,7 +43,7 @@ Atualmente, sou um estudante na área de TI que visa crescimento profissional, p
 - Excel
 
 ---
-🎲 Além do Código
+🎲 Além do Código: <br>
 Nem só de terminal vive o homem! Além de programação, gosto de:
 - Praticar atividades físicas como espotes: Futsal, Vôlei e Handball, Musculação e correr.
 - Cozinhar e de culinária
