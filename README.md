@@ -10,7 +10,7 @@ Atualmente, sou um estudante na área de TI que visa crescimento profissional, p
 ---
 Linguagens & Tecnologias:
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,php" />
 </p>
 
 - HTML5
