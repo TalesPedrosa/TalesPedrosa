@@ -1,4 +1,6 @@
-## Hi there 👋
+# Olá mundo👋 Eu sou o Tales Pedrosa
+
+**Estudante de Programação e TI | Desenvolvimento de Sistemnas & CiberSegurança**
 
 <!--
 **TalesPedrosa/TalesPedrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
