@@ -4,7 +4,12 @@
 
 📍Betim, Minas Gerais - Brasil
 
-Atualmente, sou um estudante na área de TI que visa crescimento profissional, principalmente nas áreas de Engenharia de software e CiberSegurança.
+Atualmente, sou um estudante na área de TI que visa crescimento profissional, principalmente nas áreas de Engenharia de software e CiberSegurança. Procuro em minha carreira o domínio Full-Stack, pois creio que com o avanço da IA, o futuro dos programadores será o desenvolvimento Front-End e Back-End.
+
+🛠️ Tecnologias e Ferramentas
+---
+Linguagens & Tecnologias:
+<img src="html.svg">
 <!--
 **TalesPedrosa/TalesPedrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
