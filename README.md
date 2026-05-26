@@ -10,13 +10,13 @@ Atualmente, sou um estudante na área de TI que visa crescimento profissional, p
 ---
 Linguagens & Tecnologias:
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,sql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql" />
 </p>
 
 - HTML5
 - CSS3
 - JavaScript
-- SQL Server
+- SQL
 <!--
 **TalesPedrosa/TalesPedrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
