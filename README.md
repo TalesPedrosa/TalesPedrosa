@@ -9,9 +9,8 @@ Atualmente, sou um estudante na área de TI que visa crescimento profissional, p
 🛠️ Tecnologias e Ferramentas
 ---
 Linguagens & Tecnologias:
-<p>
+###Desenvolvimento
   <img src="https://skillicons.dev/icons?i=html,css,js,mysql,php,py" />
-</p>
 
 - HTML
 - CSS
@@ -20,10 +19,8 @@ Linguagens & Tecnologias:
 - php
 - Python
 
-<p>
-  <img src="https://skillicons.dev/icons?i=excel" />
-</p>
-<!--
+###Ferramentas
+
 **TalesPedrosa/TalesPedrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
