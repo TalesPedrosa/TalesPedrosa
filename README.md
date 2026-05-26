@@ -1,7 +1,8 @@
 # Olá mundo👋 Eu sou o Tales Pedrosa
 
-**Estudante de Programação e TI | Desenvolvimento de Sistemnas & CiberSegurança**
+**Estudante de Programação e TI | Desenvolvimento de Sistemas & CiberSegurança**
 
+📍Betim, Minas Gerais - Brasil
 <!--
 **TalesPedrosa/TalesPedrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
