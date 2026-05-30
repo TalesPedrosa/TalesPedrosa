@@ -37,6 +37,8 @@ Atualmente, sou um estudante na área de TI que visa crescimento profissional, p
 - PHP  
 - Python  
 - SQL (MySQL)
+- Git
+- GitHub
 - Canva
 - PowerPoint
 - Word
