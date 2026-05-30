@@ -13,7 +13,7 @@ Atualmente, sou um estudante na área de TI que visa crescimento profissional, p
 ### 💻 Linguagens e Desenvolvimento
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github" />
 </p>
 
 ---
